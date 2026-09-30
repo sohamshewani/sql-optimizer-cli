@@ -1,0 +1,8 @@
+click
+rich
+pytest
+sqlite3
+aiohttp
+pandas
+scikit-learn
+asyncio
